@@ -1,0 +1,10 @@
+Link to raw data file alias insta_cart_data.tar:
+https://drive.google.com/open?id=1myqyhk4w-bewjL4jPsIF1nWdmlUh7rj1
+
+Link to Google drive files for EDA
+
+instacart_combined_data.csv
+https://drive.google.com/open?id=1iwaXc_AqhyUhee2R_C7wSyeIRlRNpWH0
+
+data_test.csv
+https://drive.google.com/open?id=1r7vuDif0MpOk9CQtveYCivX5xQhLt58J
