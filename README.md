@@ -14,4 +14,4 @@ instacart_hypothesis_testing.ipynb;
 instacart_ML.ipynb.
 
 Shearable links to the files needed to execute are in 
-links_to_files.txt
+links_to_files.txt.
